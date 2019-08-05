@@ -3,14 +3,17 @@
 * [简介](README.md)
 * [序言](preface.md)
 * [比特币初体验](chapter-first-experience/README.md)
+---
 * [比特币之道](chapter-philosophy/README.md)
     * [诚信为本](chapter-philosophy/honesty.md)
     * [路线图](chapter-philosophy/roadmap.md)
     * [重返创世纪](chapter-philosophy/back-to-genesis.md)
     * [中本聪愿景](chapter-philosophy/vision-of-satoshi.md)
+---
 * [比特币基本原理](chapter-how-bitcoin-works/README.md)
     * [比特币的架构](chapter-how-bitcoin-works/overview.md)
     * [比特币常见概念](chapter-how-bitcoin-works/basic-concept.md)
+---
 * [比特币钱包的使用](chapter-wallet/README.md)
     * [助记词](chapter-wallet/passphrase.md)
     * [钱包的备份和恢复](chapter-wallet/backup-and-restore.md)
@@ -20,6 +23,7 @@
         * [打点钱包](chapter-wallet/ddpurse.md)
         * [MoneyButton](chapter-wallet/moneybutton.md)
         * [Simply Cash](chapter-wallet/simply-cash.md)
+---
 * [比特币交易](chapter-transaction/README.md)
     * [比特币交易的结构](chapter-transaction/transaction-structure.md)
     * [加密算法](chapter-transaction/crypto-in-bitcoin.md)
@@ -36,10 +40,12 @@
     * [时间锁](chapter-network/timelocks.md)
     * [OP_RETURN](chapter-network/op_return.md)
     * [广播交易](chapter-transaction/broadcast-transaction.md)
+---
 * [比特币区块](chapter-block/README.md)
     * [区块的结构](chapter-block/block-structure.md)
     * [区块确认](chapter-block/block-confirmation.md)
     * [零确认的重要性](chapter-block/importance-of-zero-conf.md)
+---
 * [比特币脚本系统](chapter-scripting/README.md)
     * [比特币脚本系统](chapter-scripting/overview.md)
     * [比特币的图灵完备性](chapter-scripting/turing-completeness.md)
@@ -50,12 +56,14 @@
         * [比特币 R-Puzzle 签名](chapter-scripting/r-puzzle.md)
     * [移除 P2SH](chapter-scripting/sunsetting-p2sh.md)
     * [恢复 OP_RETURN](chapter-scripting/restoring-op_return.md)
+---
 * [比特币网络](chapter-network/README.md)
     * [什么是点对点网络](chapter-network/peer-to-peer.md)
     * [双重的比特币网络](chapter-network/overlayed-bitcoin-network.md)
     * [IP2IP](chapter-network/ip2ip.md)
     * [支付通道](chapter-network/payment-channel.md)
     * [SPV](chapter-network/spv.md)
+---
 * [比特币挖矿](chapter-mining/README.md)
     * [运行节点](chapter-mining/running-bitcoin-node.md)
     * [工作量证明](chapter-mining/proof-of-work.md)
@@ -67,11 +75,13 @@
     * [分叉与共识](chapter-mining/forks-and-consensus.md)
     * [孤块，钢与铁](chapter-mining/orphan-block.md)
     * [去中心化的迷思](chapter-mining/myths-of-decentralization.md)
+---
 * [比特币安全](chapter-security/README.md)
     * [安全指南](chapter-security/security-policy.md)
     * [比特币热钱包](chapter-security/hot-storage.md)
     * [比特币冷钱包](chapter-security/cold-storage.md)
     * [比特币硬件钱包](chapter-security/hardwallet-storage.md)
+---
 * [比特币客户端](chapter-client/README.md)
     * [稳定的协议](chapter-client/stable-protocol.md)
         * [Open BSV license](chapter-client/open-bsv-license.md)
@@ -110,4 +120,3 @@
     * [中本聪时间线](appendix/time-line-of-satoshi.md)
     * [BitcoinSV 常见问题](appendix/faq-of-bsv.md)
     * [比特币白皮书](appendix/bitcoin-whitepaper.md)
-
